@@ -1,5 +1,6 @@
 // Only Globals
 // To run `node [filename].js`
+// To run dynimcaly `nodemon [filename].js`
 
 // __dirname - path to current directory
 // __filename - file name

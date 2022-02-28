@@ -1,0 +1,27 @@
+{
+  "name": "node.js__fundamentals",
+  "version": "1.0.0",
+  "description": "Node.js fundamentals",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaJioshvili20/node.js__fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaJioshvili20/node.js__fundamentals/issues"
+  },
+  "homepage": "https://github.com/LukaJioshvili20/node.js__fundamentals#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
